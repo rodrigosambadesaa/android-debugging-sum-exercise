@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Debugging Sum Exercise</string>
+    <string name="first_number">Primer número</string>
+    <string name="second_number">Segundo número</string>
+    <string name="plus">+</string>
+    <string name="equals">=</string>
+    <string name="invalid_number">Introduzca números enteros válidos.</string>
+    <string name="overflow">La suma queda fuera del rango admitido.</string>
+</resources>
